@@ -27,7 +27,7 @@ Key Features:
 
 Key Features:
 - Lists title of the cache
-- Lists key details about the cache (hide difficulty, size, etc) queried from SQL database
+- Lists key details about the cache (hide difficulty, size, etc) queried from a MySQL database
 
 ![Cache Details](cacheDetailsPage.png)
 
